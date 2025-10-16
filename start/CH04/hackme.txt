@@ -1,0 +1,5 @@
+Name: Huy
+Color: RED
+Pet name: lu
+Mother name: pham
+Your school: Greenriver
