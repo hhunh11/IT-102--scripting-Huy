@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# Script that performs a dictionary attack against known password hashes
-# Needs a dictionary file, suggested to use https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
-# By 
 from passlib.hash import sha512_crypt
 
 SHADOW_FILE=r"C:\Users\hhunh\OneDrive\Máy tính\IT-102--scripting-Huy\find_passwords\shadow.txt"
